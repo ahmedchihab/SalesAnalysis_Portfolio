@@ -61,18 +61,7 @@ Dataset includes attributes such as: `Order Date`, `Product`, `Quantity Ordered`
 
 ---
 
-## 🚀 Getting Started  
 
-To reproduce this project locally:  
-
-```bash
-# Clone repository
-git clone https://github.com/ahmedchihab/E-commerce-Sales-Analysis.git
-cd E-commerce-Sales-Analysis
-
-# Install dependencies
-pip install -r requirements.txt
-````
 
 Open notebooks in **Google Colab** or **Jupyter Notebook** to follow the workflow.
 
@@ -81,11 +70,10 @@ Open notebooks in **Google Colab** or **Jupyter Notebook** to follow the workflo
 ## 📂 Project Structure
 
 ```
-📦 E-commerce-Sales-Analysis
+📦 Product Trends and Consumer Behavior 
 │── 📁 data/                 # Raw dataset
 │── 📁 notebooks/            # Jupyter/Colab notebooks
 │── 📁 visuals/              # Generated charts & plots
-│── requirements.txt         # Python dependencies
 │── README.md                # Project documentation
 ```
 
@@ -97,9 +85,6 @@ Contributions are welcome! Fork this repository and submit a PR with improvement
 
 ---
 
-## 👨‍💻 Author
-
-**Ahmed Chihab**
 
 ## 👨‍💻 Author  
 
