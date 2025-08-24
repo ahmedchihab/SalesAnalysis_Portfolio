@@ -39,13 +39,13 @@ Dataset includes attributes such as: `Order Date`, `Product`, `Quantity Ordered`
 ## 📊 Example Visualizations  
 
 📌 *Monthly Sales Trend*  
-![Monthly Sales](https://via.placeholder.com/800x400?text=Monthly+Sales+Chart)  
+![Monthly Sales](<img width="1015" height="497" alt="image" src="https://github.com/user-attachments/assets/7ea0f6eb-708b-449a-9a67-6ee68ec41acf" />)  
 
 📌 *Top 10 Products*  
-![Top Products](https://via.placeholder.com/800x400?text=Top+Products+Chart)  
+![Top Products](<img width="1584" height="590" alt="image" src="https://github.com/user-attachments/assets/358d888a-6be4-4236-a6cd-9ce1db876926" />)  
 
 📌 *Sales by City*  
-![Sales by City](https://via.placeholder.com/800x400?text=Sales+by+City+Chart)  
+![Sales by City](<img width="1183" height="583" alt="image" src="https://github.com/user-attachments/assets/f6ad948d-5c74-4f09-836a-43499de48fa1" />)  
 
 ---
 
