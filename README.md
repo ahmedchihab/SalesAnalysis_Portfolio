@@ -13,7 +13,7 @@
 ---
 
 ## 📌 Project Overview  
-This project explores **E-commerce sales data** to extract meaningful insights and support data-driven decisions.  
+This project explores **Product Trends and Consumer Behavior** to extract meaningful insights and support data-driven decisions.  
 
 Key analysis points:  
 - 🏆 Identify **best-selling products**  
